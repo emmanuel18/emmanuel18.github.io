@@ -454,6 +454,7 @@ portfolio section
 #portfolio {
   background-color: #f6f6f6;
   text-align: center;
+  align-content: center;
   }
 #portfolio .container {
   width: 100%;
@@ -499,8 +500,10 @@ portfolio section
 /* ISOTOPE BOX CSS */
 .iso-box-section {
     width: 100%;
+	align-content: center;
 }
 .iso-box-wrapper {
+	align-content: center;
     width: 100%;
     padding: 0;
     clear: both;
